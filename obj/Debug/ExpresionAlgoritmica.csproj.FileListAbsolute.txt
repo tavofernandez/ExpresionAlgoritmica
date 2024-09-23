@@ -1,0 +1,9 @@
+C:\Users\TAVO\source\repos\ExpresionAlgoritmica\obj\Debug\ExpresionAlgoritmica.csproj.AssemblyReference.cache
+C:\Users\TAVO\source\repos\ExpresionAlgoritmica\obj\Debug\ExpresionAlgoritmica.frmEcuacion.resources
+C:\Users\TAVO\source\repos\ExpresionAlgoritmica\obj\Debug\ExpresionAlgoritmica.Properties.Resources.resources
+C:\Users\TAVO\source\repos\ExpresionAlgoritmica\obj\Debug\ExpresionAlgoritmica.csproj.GenerateResource.cache
+C:\Users\TAVO\source\repos\ExpresionAlgoritmica\obj\Debug\ExpresionAlgoritmica.csproj.CoreCompileInputs.cache
+C:\Users\TAVO\source\repos\ExpresionAlgoritmica\bin\Debug\ExpresionAlgoritmica.exe
+C:\Users\TAVO\source\repos\ExpresionAlgoritmica\bin\Debug\ExpresionAlgoritmica.pdb
+C:\Users\TAVO\source\repos\ExpresionAlgoritmica\obj\Debug\ExpresionAlgoritmica.exe
+C:\Users\TAVO\source\repos\ExpresionAlgoritmica\obj\Debug\ExpresionAlgoritmica.pdb
