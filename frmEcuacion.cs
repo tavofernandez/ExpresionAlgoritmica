@@ -20,7 +20,8 @@ namespace ExpresionAlgoritmica
 
         private void btncalcular_Click(object sender, EventArgs e)
         {
-
+            AsignarDatos();
+            calcular();
         }
 
         private void calcular()
