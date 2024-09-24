@@ -18,6 +18,18 @@ namespace ExpresionAlgoritmica
 
         double a, b, c, resultado;
 
+        private void btncalcular_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void calcular()
+        {
+            resultado = ((c + 5) * (Math.Pow(b, 2) - 3 * a * c) * Math.Pow(a, 2)) / (4 * a);
+
+
+        }
+
         private void label2_Click(object sender, EventArgs e)
         {
 
