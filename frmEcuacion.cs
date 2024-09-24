@@ -27,7 +27,7 @@ namespace ExpresionAlgoritmica
         {
             resultado = ((c + 5) * (Math.Pow(b, 2) - 3 * a * c) * Math.Pow(a, 2)) / (4 * a);
 
-
+            lblresultado.Text = resultado.ToString();
         }
 
         private void label2_Click(object sender, EventArgs e)
