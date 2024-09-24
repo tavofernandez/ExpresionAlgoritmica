@@ -27,5 +27,12 @@ namespace ExpresionAlgoritmica
         {
 
         }
+
+        private void AsignarDatos()
+        {
+            a = Convert.ToDouble(txta.Text);
+            b = Convert.ToDouble(txtb.Text);
+            c = Convert.ToDouble(txtc.Text);
+        }
     }
 }
