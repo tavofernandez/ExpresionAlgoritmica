@@ -16,7 +16,14 @@ namespace ExpresionAlgoritmica
             InitializeComponent();
         }
 
+        double a, b, c, resultado;
+
         private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void frmEcuacion_Load(object sender, EventArgs e)
         {
 
         }

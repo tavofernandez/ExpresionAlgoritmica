@@ -179,6 +179,7 @@ namespace ExpresionAlgoritmica
             this.Name = "frmEcuacion";
             this.Text = "frmEcuacion";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.Load += new System.EventHandler(this.frmEcuacion_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
